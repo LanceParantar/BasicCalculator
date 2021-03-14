@@ -1,0 +1,10 @@
+.number-button {
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+}
+.operator-button{
+    -fx-font-size: 20px;
+}
+.label{
+    -fx-background-color: silver;
+}
